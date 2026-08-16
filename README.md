@@ -1,5 +1,3 @@
-# Epic GitHub Profile README
-
 <div align="center">
 
 # ⚡ Osama El Anzi
