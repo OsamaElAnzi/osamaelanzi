@@ -20,7 +20,7 @@ Location: Netherlands
 Role: Full-Stack Developer
 Backend: ASP.NET Core, C#
 Frontend: React, React Native, TypeScript, Vue.js, CSS/Bootstrap, HTML
-Database: MySQL, SQL Server, SMSS
+Database: MySQL, SQL Server, SSMS
 Tools: Ubuntu servers, GitHub Actions, XAMPP
 ```
 
