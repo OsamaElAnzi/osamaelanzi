@@ -1,27 +1,77 @@
-# Hi, I'm Osama 👋
+# Epic GitHub Profile README
 
-Full-Stack Developer from the Netherlands 🇳🇱
+<div align="center">
+
+# ⚡ Osama El Anzi
+
+### Full-Stack Developer • ASP.NET Core • React Native • IT Service Desk Specialist
+
+Building scalable APIs, mobile applications, and production-ready systems.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;ASP.NET+Core+Specialist;React+Native+Developer;MySQL+%26+Cloud+Enthusiast;Always+Learning+New+Technologies" />
+
+</div>
+
+---
 
 ## 🚀 About Me
 
-- Junior Full-Stack Developer
-- ASP.NET Core & React Native
-- MySQL & SQL Server
-- Building mobile and web applications
+```yaml
+Name: Osama El Anzi
+Location: Netherlands
+Role: Full-Stack Developer
+Backend: ASP.NET Core, C#
+Frontend: React, React Native, TypeScript, Vue.js, CSS/Bootstrap, HTML
+Database: MySQL, SQL Server, SMSS
+Tools: Ubuntu servers, GitHub Actions, XAMPP
+```
 
-## 🛠️ Tech Stack
+---
 
-![C#](https://img.shields.io/badge/C%23-.NET-blue)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-Core-purple)
-![React](https://img.shields.io/badge/React-Native-blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1)
+## ⚔️ Tech Arsenal
 
-## 📊 GitHub Stats
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,react,typescript,javascript,mysql,ubuntu,linux,git,github,vscode,vstudio" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osamaelanzi&show_icons=true)
+---
 
-## 🔥 Current Projects
+## 📈 GitHub Statistics
 
-- Pecunia Procuratio
-- UseFull (vibecode without "vibecoding(no AI allowed)")
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=osamaelanzi&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+### 💰 Pecunia Procuratio
+
+A personal finance platform built with ASP.NET Core and React Native.
+
+### 🏥 Zorgscherm Mobile
+
+Mobile solution developed during graduation internship.
+
+---
+
+## 🏆 Achievements
+
+* 🚀 Building production-ready APIs
+* 📱 Cross-platform mobile development
+* 🔒 JWT Authentication & Security
+* ☁️ Set-up Ubuntu Server
+
+---
+
+## 📫 Connect
+
+<p align="center">
+<a href="https://github.com/OsamaElAnzi">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge" />
+</a>
+</p>
+
+---
+
