@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Osama 👋
 
-<!--
-**OsamaElAnzi/osamaelanzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer from the Netherlands 🇳🇱
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Junior Full-Stack Developer
+- ASP.NET Core & React Native
+- MySQL & SQL Server
+- Building mobile and web applications
+
+## 🛠️ Tech Stack
+
+![C#](https://img.shields.io/badge/C%23-.NET-blue)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-Core-purple)
+![React](https://img.shields.io/badge/React-Native-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osamaelanzi&show_icons=true)
+
+## 🔥 Current Projects
+
+- Pecunia Procuratio
+- UseFull (vibecode without "vibecoding(no AI allowed)")
