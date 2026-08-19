@@ -32,13 +32,6 @@ Tools: Ubuntu servers, GitHub Actions, XAMPP
 <img src="https://skillicons.dev/icons?i=cs,dotnet,react,typescript,javascript,mysql,ubuntu,linux,git,github,vscode,vstudio" />
 </p>
 
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=osamaelanzi&theme=tokyonight" />
-</p>
 
 ---
 
