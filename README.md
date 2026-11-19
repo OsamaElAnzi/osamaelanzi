@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Osama El Anzi
+# Osama El Anzi
 
 ### Full-Stack Developer • ASP.NET Core • React Native • IT Service Desk Specialist
 
@@ -12,13 +12,14 @@ Building scalable APIs, mobile applications, and production-ready systems.
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```yaml
 Name: Osama El Anzi
 Location: Netherlands
-Role: Full-Stack Developer
-Backend: ASP.NET Core, C#
+Hobby: Full-Stack Developer
+Role: IT Service Desk Specialist (Current)
+Backend: ASP.NET Core, C#, EF
 Frontend: React, React Native, TypeScript, Vue.js, CSS/Bootstrap, HTML
 Database: MySQL, SQL Server, SSMS
 Tools: Ubuntu servers, GitHub Actions, XAMPP
@@ -26,7 +27,7 @@ Tools: Ubuntu servers, GitHub Actions, XAMPP
 
 ---
 
-## ⚔️ Tech Arsenal
+## TechStack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cs,dotnet,react,typescript,javascript,mysql,ubuntu,linux,git,github,vscode,vstudio" />
@@ -35,28 +36,28 @@ Tools: Ubuntu servers, GitHub Actions, XAMPP
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 
-### 💰 Pecunia Procuratio
+### Pecunia Procuratio
 
-A personal finance platform built with ASP.NET Core and React Native.
+A personal finance platform built with ASP.NET Core (back-end) and React Native(Frond-end).
 
-### 🏥 Zorgscherm Mobile
+### Zorgscherm Mobile
 
 Mobile solution developed during graduation internship.
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-* 🚀 Building production-ready APIs
-* 📱 Cross-platform mobile development
-* 🔒 JWT Authentication & Security
-* ☁️ Set-up Ubuntu Server
+* Building production-ready APIs
+* Cross-platform mobile development
+* JWT Authentication & Security
+* Set-up Ubuntu Server
 
 ---
 
-## 📫 Connect
+## Connect
 
 <p align="center">
 <a href="https://github.com/OsamaElAnzi">
