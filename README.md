@@ -1,103 +1,130 @@
-```text
-                    ██████╗ ███████╗ █████╗ ███╗   ███╗ █████╗
-                   ██╔═══██╗██╔════╝██╔══██╗████╗ ████║██╔══██╗
-                   ██║   ██║███████╗███████║██╔████╔██║███████║
-                   ██║   ██║╚════██║██╔══██║██║╚██╔╝██║██╔══██║
-                   ╚██████╔╝███████║██║  ██║██║ ╚═╝ ██║██║  ██║
-                    ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
+ <div align="center">
 
-                                  E L   A N Z I
+# Osama El Anzi
 
-                              FULL-STACK DEVELOPER
-                    ASP.NET CORE | C# | REACT NATIVE
-                       TYPESCRIPT | MYSQL | LINUX
+### Full-Stack Developer | ASP.NET Core | React Native
 
-             Building scalable APIs, mobile applications and
-                       production-ready systems.
+**Building reliable backends, scalable APIs and modern applications.**
 
+<br/>
 
-                         +----------------------+
-                         |       ABOUT ME        |
-                         +----------------------+
+<a href="https://github.com/OsamaElAnzi">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/OsamaElAnzi">
+  <img src="https://komarev.com/ghpvc/?username=OsamaElAnzi&style=for-the-badge&color=blueviolet" />
+</a>
 
-                              NAME
-                         Osama El Anzi
+</div>
 
-                              LOCATION
-                         Netherlands
+---
 
-                           CURRENT ROLE
-                     IT Service Desk Specialist
+## About Me
 
-                              PASSION
-                       Full-Stack Development
+I'm a developer focused on building backend systems, REST APIs and cross-platform mobile applications.
 
+My primary focus is **backend development**, with an emphasis on clean architecture, maintainable code, database design and secure authentication.
 
-                         +----------------------+
-                         |      TECH STACK       |
-                         +----------------------+
+- **Location:** Netherlands
+- **Current Role:** IT Service Desk Specialist
+- **Development:** Full-Stack Development
+- **Primary Stack:** C# / ASP.NET Core
+- **Interests:** Backend Architecture, API Development & Infrastructure
 
-                              BACKEND
-                 C# | .NET | ASP.NET Core | EF Core
+---
 
-                              FRONTEND
-             React | React Native | TypeScript | Vue.js
+## Technology Stack
 
-                              DATABASE
-                   MySQL | SQL Server | SSMS
+<div align="center">
 
-                       DEVOPS & INFRASTRUCTURE
-                Ubuntu | Linux | Git | GitHub Actions
+### Backend Development
 
+<img src="https://skillicons.dev/icons?i=cs,dotnet" />
 
-                         +----------------------+
-                         |  FEATURED PROJECTS    |
-                         +----------------------+
+### Frontend Development
 
-                         [01] PECUNIA PROCURATIO
+<img src="https://skillicons.dev/icons?i=react,typescript,vue" />
 
-                       Personal Finance Platform
+### Database & Infrastructure
 
-                     BACKEND : ASP.NET Core / C#
-                     MOBILE  : React Native
-                     DATABASE: MySQL
-                     SECURITY: JWT Authentication
+<img src="https://skillicons.dev/icons?i=mysql,mssql,linux,ubuntu,docker,git,github" />
 
+</div>
 
-                          [02] ZORGSCHERM MOBILE
+---
 
-                           Mobile Application
+## Featured Projects
 
-                     FRAMEWORK : React Native
-                     PURPOSE   : Waiting Room Management
+### 01. Pecunia Procuratio
 
-                  Developed during my graduation internship.
+**Personal Finance Management Platform**
 
+A personal finance application designed to manage financial data through a secure backend and mobile interface.
 
-                         +----------------------+
-                         |     ACHIEVEMENTS      |
-                         +----------------------+
+| Component | Technology |
+|---|---|
+| Backend | ASP.NET Core / C# |
+| Mobile | React Native |
+| Database | MySQL |
+| Authentication | JWT / Refresh Tokens |
 
-                    [+] Production-ready REST APIs
-                    [+] JWT Authentication & Authorization
-                    [+] Cross-platform Mobile Development
-                    [+] Relational Database Design
-                    [+] Ubuntu Server Administration
-                    [+] Backend Architecture & Development
+**Focus:** REST API architecture, authentication, database management and secure data processing.
 
+### 02. Uitloop – Zorgscherm
 
-                         +----------------------+
-                         |       CONNECT        |
-                         +----------------------+
+**Mobile Waiting Room Management Application**
 
-                    GITHUB
-              github.com/OsamaElAnzi
+A cross-platform mobile application developed to support waiting room management and improve operational workflows.
 
+| Component | Technology |
+|---|---|
+| Framework | React Native CLI |
+| Backend | ASP.NET Core API |
+| Authentication | JWT |
+| Integration | QR Code Authentication |
 
-              THINK  >  DESIGN  >  DEVELOP  >  IMPROVE
+**Focus:** Mobile development, API integration, authentication and production-oriented application development.
 
-                 "Building systems, not just writing code."
+---
 
+## Core Competencies
 
-                         ===== END OF README =====
-```
+- RESTful API Development
+- ASP.NET Core & Entity Framework Core
+- JWT Authentication & Authorization
+- Relational Database Design
+- React & React Native Development
+- TypeScript
+- Git & CI/CD Workflows
+- Linux & Ubuntu Server Administration
+- Backend Architecture & Clean Code
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=OsamaElAnzi&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaElAnzi&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/OsamaElAnzi">
+  <img src="https://img.shields.io/badge/GitHub-OsamaElAnzi-181717?style=for-the-badge&logo=github" />
+</a>
+
+<br/><br/>
+
+**THINK. DESIGN. DEVELOP. IMPROVE.**
+
+*Building systems, not just writing code.*
+
+</div>
