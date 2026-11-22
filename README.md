@@ -1,69 +1,121 @@
-<div align="center">
+```text
+ ██████╗ ███████╗ █████╗ ███╗   ███╗ █████╗
+██╔═══██╗██╔════╝██╔══██╗████╗ ████║██╔══██╗
+██║   ██║███████╗███████║██╔████╔██║███████║
+██║   ██║╚════██║██╔══██║██║╚██╔╝██║██╔══██║
+╚██████╔╝███████║██║  ██║██║ ╚═╝ ██║██║  ██║
+ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
+
+             OSAMA EL ANZI
+       FULL-STACK DEVELOPER
+```
 
 # Osama El Anzi
 
-### Full-Stack Developer • ASP.NET Core • React Native • IT Service Desk Specialist
+**Full-Stack Developer | ASP.NET Core | React Native | IT Service Desk Specialist**
 
-Building scalable APIs, mobile applications, and production-ready systems.
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;ASP.NET+Core+Specialist;React+Native+Developer;MySQL+%26+Cloud+Enthusiast;Always+Learning+New+Technologies" />
-
-</div>
+> Building scalable APIs, mobile applications, and production-ready systems.
 
 ---
 
-## About Me
+## [ ABOUT ME ]
 
 ```yaml
-Name: Osama El Anzi
-Location: Netherlands
-Hobby: Full-Stack Developer
-Role: IT Service Desk Specialist (Current)
-Backend: ASP.NET Core, C#, EF
-Frontend: React, React Native, TypeScript, Vue.js, CSS/Bootstrap, HTML
-Database: MySQL, SQL Server, SSMS
-Tools: Ubuntu servers, GitHub Actions, XAMPP
+Name        : Osama El Anzi
+Location    : Netherlands
+Hobby       : Full-Stack Development
+Current Role: IT Service Desk Specialist
+
+Backend     : C#, ASP.NET Core, Entity Framework Core
+Frontend    : React, React Native, TypeScript, Vue.js
+Database    : MySQL, SQL Server, SSMS
+Tools       : Ubuntu, GitHub Actions, Git, XAMPP
+Interests   : Backend Architecture, APIs, Cloud & Infrastructure
 ```
 
 ---
 
-## TechStack
+## [ TECH STACK ]
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,react,typescript,javascript,mysql,ubuntu,linux,git,github,vscode,vstudio" />
-</p>
+```text
+BACKEND
+-------
+C# | .NET | ASP.NET Core | Entity Framework Core
 
+FRONTEND
+--------
+React | React Native | TypeScript | JavaScript
+Vue.js | HTML | CSS | Bootstrap
 
----
+DATABASE
+--------
+MySQL | Microsoft SQL Server | SSMS
 
-## Featured Projects
-
-### Pecunia Procuratio
-
-A personal finance platform built with ASP.NET Core (back-end) and React Native(Frond-end).
-
-### Zorgscherm Mobile
-
-Mobile solution developed during graduation internship.
-
----
-
-## Achievements
-
-* Building production-ready APIs
-* Cross-platform mobile development
-* JWT Authentication & Security
-* Set-up Ubuntu Server
+DEVOPS & TOOLS
+--------------
+Ubuntu | Linux | Git | GitHub
+GitHub Actions | Visual Studio | VS Code
+```
 
 ---
 
-## Connect
+## [ FEATURED PROJECTS ]
 
-<p align="center">
-<a href="https://github.com/OsamaElAnzi">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge" />
-</a>
-</p>
+### 01. Pecunia Procuratio
+
+```text
+TYPE       : Personal Finance Platform
+BACKEND    : ASP.NET Core / C#
+FRONTEND   : React Native
+DATABASE   : MySQL
+
+DESCRIPTION:
+A personal finance platform designed to manage
+financial data through a secure backend API
+and cross-platform mobile application.
+```
+
+### 02. Zorgscherm Mobile
+
+```text
+TYPE       : Mobile Application
+FRAMEWORK  : React Native
+PURPOSE    : Healthcare / Waiting Room Management
+
+DESCRIPTION:
+A mobile solution developed during my graduation
+internship, designed to support and simplify
+waiting room management.
+```
 
 ---
 
+## [ ACHIEVEMENTS ]
+
+```text
+[+] Building production-ready REST APIs
+[+] Developing cross-platform mobile applications
+[+] Implementing JWT authentication
+[+] Working with relational databases
+[+] Setting up and managing Ubuntu servers
+[+] Building backend architectures
+```
+
+---
+
+## [ CONNECT ]
+
+```text
+GitHub:
+https://github.com/OsamaElAnzi
+```
+
+---
+
+```text
+==================================================
+  "First understand the system. Then build it."
+==================================================
+
+                 END OF README
+```
