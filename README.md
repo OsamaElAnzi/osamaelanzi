@@ -1,130 +1,165 @@
  <div align="center">
 
-# Osama El Anzi
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B33,100:2563EB&height=200&section=header&text=OSAMA%20EL%20ANZI&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=FULL-STACK%20DEVELOPER&descSize=18&descAlignY=60&descColor=58A6FF" />
 
-### Full-Stack Developer | ASP.NET Core | React Native
-
-**Building reliable backends, scalable APIs and modern applications.**
+<a href="https://github.com/OsamaElAnzi">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+.NET+%26+C%23;Building+Scalable+REST+APIs;React+Native+%26+TypeScript;Design.+Develop.+Improve." alt="Typing SVG" />
+</a>
 
 <br/>
 
-<a href="https://github.com/OsamaElAnzi">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/OsamaElAnzi">
-  <img src="https://komarev.com/ghpvc/?username=OsamaElAnzi&style=for-the-badge&color=blueviolet" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/OsamaElAnzi)
+![Profile Views](https://komarev.com/ghpvc/?username=OsamaElAnzi&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## About Me
+## `01` — About Me
 
-I'm a developer focused on building backend systems, REST APIs and cross-platform mobile applications.
+```csharp
+public class Developer
+{
+    public string Name => "Osama El Anzi";
+    public string Location => "Netherlands";
+    public string Role => "IT Service Desk Specialist";
 
-My primary focus is **backend development**, with an emphasis on clean architecture, maintainable code, database design and secure authentication.
+    public string[] Focus =>
+    [
+        "Backend Development",
+        "API Architecture",
+        "Mobile Applications",
+        "Infrastructure"
+    ];
 
-- **Location:** Netherlands
-- **Current Role:** IT Service Desk Specialist
-- **Development:** Full-Stack Development
-- **Primary Stack:** C# / ASP.NET Core
-- **Interests:** Backend Architecture, API Development & Infrastructure
+    public string Philosophy =>
+        "Build systems, not just features.";
+}
+```
+
+I'm a developer passionate about engineering reliable backend systems, scalable APIs and modern mobile applications.
+
+My main focus is backend development, where I enjoy designing application architecture, working with databases and implementing secure authentication systems.
 
 ---
 
-## Technology Stack
+## `02` — Tech Arsenal
 
 <div align="center">
 
-### Backend Development
+**BACKEND**
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet" />
 
-### Frontend Development
+<br/>
+
+**FRONTEND**
 
 <img src="https://skillicons.dev/icons?i=react,typescript,vue" />
 
-### Database & Infrastructure
+<br/>
 
-<img src="https://skillicons.dev/icons?i=mysql,mssql,linux,ubuntu,docker,git,github" />
+**DATABASE & INFRASTRUCTURE**
+
+<img src="https://skillicons.dev/icons?i=mysql,mssql,linux,ubuntu,docker" />
+
+<br/>
+
+**DEVELOPMENT TOOLS**
+
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode" />
 
 </div>
 
 ---
 
-## Featured Projects
+## `03` — Featured Projects
 
-### 01. Pecunia Procuratio
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Personal Finance Management Platform**
+<h3>01. Pecunia Procuratio</h3>
 
-A personal finance application designed to manage financial data through a secure backend and mobile interface.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1D4ED8&height=90&text=PECUNIA%20PROCURATIO&fontSize=18&fontColor=FFFFFF" />
 
-| Component | Technology |
-|---|---|
-| Backend | ASP.NET Core / C# |
-| Mobile | React Native |
-| Database | MySQL |
-| Authentication | JWT / Refresh Tokens |
+**Personal Finance Platform**
 
-**Focus:** REST API architecture, authentication, database management and secure data processing.
+A personal finance application built around a secure backend and mobile experience.
 
-### 02. Uitloop – Zorgscherm
+- ASP.NET Core / C#
+- React Native
+- MySQL
+- JWT Authentication
+- Refresh Token Sessions
 
-**Mobile Waiting Room Management Application**
+</td>
+<td width="50%" valign="top">
 
-A cross-platform mobile application developed to support waiting room management and improve operational workflows.
+<h3>02. Uitloop – Zorgscherm</h3>
 
-| Component | Technology |
-|---|---|
-| Framework | React Native CLI |
-| Backend | ASP.NET Core API |
-| Authentication | JWT |
-| Integration | QR Code Authentication |
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:0891B2&height=90&text=UITLOOP%20MOBILE&fontSize=18&fontColor=FFFFFF" />
 
-**Focus:** Mobile development, API integration, authentication and production-oriented application development.
+**Waiting Room Management**
 
----
+A mobile application developed to support waiting room management and operational workflows.
 
-## Core Competencies
+- React Native CLI
+- ASP.NET Core API
+- QR Code Authentication
+- API Integration
+- Production-oriented development
 
-- RESTful API Development
-- ASP.NET Core & Entity Framework Core
-- JWT Authentication & Authorization
-- Relational Database Design
-- React & React Native Development
-- TypeScript
-- Git & CI/CD Workflows
-- Linux & Ubuntu Server Administration
-- Backend Architecture & Clean Code
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Statistics
+## `04` — Engineering Skills
+
+```text
+[████████████████████]  Backend Development
+[██████████████████░░]  API Development
+[██████████████████░░]  Database Design
+[████████████████░░░░]  Mobile Development
+[████████████████░░░░]  Infrastructure
+```
+
+*Areas of focus, not measured proficiency scores.*
+
+---
+
+## `05` — GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=OsamaElAnzi&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=OsamaElAnzi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaElAnzi&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaElAnzi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=OsamaElAnzi&bg_color=0D1117&color=58A6FF&line=2563EB&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
 ---
 
-## Let's Connect
+## `06` — Connect
 
 <div align="center">
 
 <a href="https://github.com/OsamaElAnzi">
-  <img src="https://img.shields.io/badge/GitHub-OsamaElAnzi-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" />
 </a>
 
 <br/><br/>
 
-**THINK. DESIGN. DEVELOP. IMPROVE.**
+### THINK → DESIGN → DEVELOP → IMPROVE
 
-*Building systems, not just writing code.*
+**Building systems, not just writing code.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:161B33,100:0D1117&height=110&section=footer" />
 
 </div>
